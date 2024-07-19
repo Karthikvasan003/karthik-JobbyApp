@@ -63,7 +63,7 @@
   }
 }
 
-.shop-now-button{
+.shop-now-button {
   font-family: 'Roboto';
   font-size: 14px;
   color: #ffffff;
@@ -77,7 +77,7 @@
 }
 
 @media screen and (min-width: 768px) {
-  .shop-now-button{
+  .shop-now-button {
     width: 150px;
     font-size: 16px;
   }
